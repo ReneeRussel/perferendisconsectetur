@@ -1,0 +1,34 @@
+{
+  "name": "perferendisconsectetur",
+  "version": "1.0.0",
+  "description": "Simple JS queue with auto run for node and browsers",
+  "main": "queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReneeRussel/perferendisconsectetur.git"
+  },
+  "keywords": [
+    "queue",
+    "laboriosam",
+    "quo",
+    "molestiae",
+    "run",
+    "execute",
+    "browser",
+    "react"
+  ],
+  "author": "LeilaniBrown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReneeRussel/perferendisconsectetur.git/issues"
+  },
+  "dependencies": {
+    "easy-stack": "^1.0.0"
+  }
+}
